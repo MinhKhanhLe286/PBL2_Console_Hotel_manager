@@ -1,0 +1,5 @@
+101,Phong Don, 100.00, 0;
+102,Phong Doi, 150.00, 0;
+103,Gia Dinh, 200.00, 0;
+104,Phong Vip, 250.00, 0;
+105,Phong Suite, 300.0, 0;
